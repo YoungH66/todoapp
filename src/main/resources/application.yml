@@ -19,4 +19,4 @@ spring:
         static: ap-northeast-2
   config:
     import:
-      - aws-parameterstore:/todo/config
+      - aws-parameterstore:/todo/config/
